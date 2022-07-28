@@ -1,2 +1,2 @@
-# skretcode.github.io
+# skretcode
 A journey in secrecy
